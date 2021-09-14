@@ -1,0 +1,1 @@
+{"main":"hello-world-secure.raml","name":"hello-world-secure","classifier":"raml","tags":[],"dependencies":[{"groupId":"9be525ca-2070-48e3-9316-f0b9178b7e1f","assetId":"customesecurityscheme","version":"1.0.0"}],"groupId":"9be525ca-2070-48e3-9316-f0b9178b7e1f","assetId":"hello-world-secure","version":"1.0.3","apiVersion":"v1.0.0","originalFormatVersion":"1.0"}

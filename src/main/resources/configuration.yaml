@@ -1,0 +1,9 @@
+http:
+  port: "8081"
+  host: "0.0.0.0"
+ 
+twilo:
+  sid: "![q8P9RI2Q46Mth+mg/w6eOYErk/vshFtdmZKQCeCO/xYnwmxarJoH4g==]"
+  username: "![q8P9RI2Q46Mth+mg/w6eOYErk/vshFtdmZKQCeCO/xYnwmxarJoH4g==]"
+  pwd: "![scAeW1FmVtV/e7furc708zp8oXLF170i8Z9M2iuSv/xyjzbT+e3PZg==]"
+  url: "https://api.twilio.com"
