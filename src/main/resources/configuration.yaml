@@ -11,4 +11,6 @@ twilo:
 sandbox:
   anypoint.platform.client_id: "6ddaa7b0e4c440e39bfe3faf284165ae"
   anypoint.platform.client_secret: "B8C17A27f85b4101985fACD05aAEc35b"
+  anypoint.platform.analytics_base_uri: "https://analytics-ingest.anypoint.mulesoft.com/"
+  anypoint.platform.base_uri: "https://anypoint.mulesoft.com/"
   
