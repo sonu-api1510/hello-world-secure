@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
@@ -98,7 +96,7 @@
 		<repository>
 			<id>anypoint-exchange-v2</id>
 			<name>Anypoint Exchange</name>
-			<url>https://maven.anypoint.mulesoft.com/api/v2/Apisero/9be525ca-2070-48e3-9316-f0b9178b7e1f/maven</url>
+			<url>https://maven.anypoint.mulesoft.com/api/v2/maven</url>
 			<layout>default</layout>
 		</repository>
 		<repository>
@@ -108,9 +106,9 @@
 			<layout>default</layout>
 		</repository>
 		<repository>
-			<id>mule-twilio-connector</id>
-			<name>Mule Twilio Connector</name>
-			<url>https://mvnrepository.com/artifact/com.mulesoft.connectors/mule-twilio-connector</url>
+			<id>exchange</id>
+			<name>My Exchange</name>
+			<url>https://maven.anypoint.mulesoft.com/api/v2/organizations/9be525ca-2070-48e3-9316-f0b9178b7e1f/maven</url>
 			<layout>default</layout>
 		</repository>
 	</repositories>
