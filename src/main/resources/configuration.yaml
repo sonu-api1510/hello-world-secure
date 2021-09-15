@@ -7,3 +7,8 @@ twilo:
   username: "![q8P9RI2Q46Mth+mg/w6eOYErk/vshFtdmZKQCeCO/xYnwmxarJoH4g==]"
   pwd: "![scAeW1FmVtV/e7furc708zp8oXLF170i8Z9M2iuSv/xyjzbT+e3PZg==]"
   url: "https://api.twilio.com"
+ 
+sandbox:
+  anypoint.platform.client_id: "6ddaa7b0e4c440e39bfe3faf284165ae"
+  anypoint.platform.client_secret: "B8C17A27f85b4101985fACD05aAEc35b"
+  

@@ -44,6 +44,8 @@
 						<workerType>MICRO</workerType>
 						<properties>
 							<http.port>8081</http.port>
+							<sandbox.anypoint.platform.client_id>6ddaa7b0e4c440e39bfe3faf284165ae</sandbox.anypoint.platform.client_id>
+							<sandbox.anypoint.platform.client_secret>B8C17A27f85b4101985fACD05aAEc35b</sandbox.anypoint.platform.client_secret>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
